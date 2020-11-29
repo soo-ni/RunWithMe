@@ -64,7 +64,7 @@
 
 * [지원하는 브라우저](#globe_with_meridians-지원하는-브라우저)
 
-* [사용된 도구](hammer_and_wrench-사용된-도구)
+* [사용된 도구](#hammer_and_wrench-사용된-도구)
 
 * [사용된 기술](#desktop_computer-사용된-기술)
 
